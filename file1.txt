@@ -1,1 +1,4 @@
 addede this is file1.txt from b2
+
+it is from b1 hello how are you from b1
+
